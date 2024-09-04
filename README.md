@@ -9,6 +9,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Database Setup](#database-setup)
+- [Run](#run)
 - [How to Use](#how-to-use)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
@@ -97,6 +98,48 @@ cd test-management-system
    ```
 
 ## Usage
+
+## Run
+
+### macOS/Linux
+
+1. **Open Terminal**.
+
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd path/to/test-management-system
+   ```
+
+3. **Activate the Virtual Environment**:
+   ```bash
+   source venv/bin/activate
+   ```
+
+4. **Run the Program**:
+   ```bash
+   python code.py
+   ```
+
+### Windows
+
+1. **Open Command Prompt or PowerShell**.
+
+2. **Navigate to the Project Directory**:
+   ```cmd
+   cd path\to\test-management-system
+   ```
+
+3. **Activate the Virtual Environment**:
+   ```cmd
+   venv\Scripts\activate
+   ```
+
+4. **Run the Program**:
+   ```cmd
+   python code.py
+   ```
+
+ 
 
 ### Step 1: Run the Program
 
