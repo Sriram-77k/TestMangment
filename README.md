@@ -57,26 +57,21 @@ cd test-management-system
 
 ### Step 2: Set Up the Virtual Environment
 
-1. **Create a Virtual Environment**:
-   ```bash
-   python -m venv vent
-   ```
-
-2. **Activate the Virtual Environment**:
+1. **Activate the Virtual Environment**:
 
    - **macOS/Linux**:
      ```bash
-     source vent/bin/activate
+     source venv/bin/activate
      ```
 
    - **Windows**:
      ```bash
-     vent\Scripts\activate
+     venv\Scripts\activate
      ```
 
-3. **Install Required Packages**:
+2. **Install Required Packages**:
    ```bash
-   pip install -r requirement.txt
+   pip install -r requirements.txt
    ```
 
 ### Step 3: Set Up MySQL Database
